@@ -1,0 +1,38 @@
+{
+  "help":"https://data.kcg.gov.tw/dataset/itaiwan-longitude-and-latitude",
+  "success":true,
+  "result":{
+          "resource_id":"0123456789"
+          "fields":[
+              {
+                  "types":"int4",
+                  "id":"_id"
+              },
+              {
+                  "types":"text"
+                  "id":"地點"
+               },
+               {
+                  "type":"text",
+                  "id":"地址"
+               },
+               {
+                  "type":"numeric"
+                  "id":"lat"
+                },
+                {
+                   "type":"numeric"
+                   "id":"lng"
+                   }
+      ],
+      "records":[
+      {
+      "lat":"22.633889",
+      "地址":"12345679",
+      "_id":1,
+      "地點":"456789"
+      "lng":"120.314262"
+      }
+      ],
+                  
+  
